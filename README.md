@@ -1,5 +1,8 @@
 ### Sujin's github👋
 
+- 🔭 I’m currently working on ACIN lab
+- 🌱 I’m currently learning Django & Flutter
+
 <!--
 **sujin-park0607/sujin-park0607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
