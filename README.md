@@ -17,3 +17,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table style="border: none">
+    <tr>
+        <td valign="top" width="50%" style="border: none">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujin-park0607&show_icons=true&locale=en&layout=compact&theme=dark" alt="sujin-park0607" />
+        </td>
+        <td valign="top" width="50%" style="border: none">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujin-park0607&show_icons=true&locale=en&theme=dark" alt="sujin-park0607" />
+        </td>
+    </tr>
+</table>
