@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<h3 align="center">STACKS:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
+</p>
+
 <table style="border: none">
     <tr>
         <td valign="top" width="50%" style="border: none">
