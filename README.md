@@ -1,10 +1,13 @@
 # Welcome to my github👋
 
-🔭 I’m currently working on NES
+🔭 I’m currently working on NES<br>
+<br>
 🌱 I’m currently learning spring
-
+<br>
+<br>
 😄 portpolio : https://sujin-park0607.github.io<br>
-📫 Today I Learned ... (TIL) :  https://good-harp-ed7.notion.site/102051b6465a4d33b57afe56d03f016e?v=b39c860a20314403986e20a634501925
+📫 Today I Learned ... (TIL) : <br>
+https://good-harp-ed7.notion.site/102051b6465a4d33b57afe56d03f016e?v=b39c860a20314403986e20a634501925
 
 <!--
 **sujin-park0607/sujin-park0607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
