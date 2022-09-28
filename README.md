@@ -1,6 +1,6 @@
 # Welcome to my github👋
 
-🔭 I’m currently working on NES<br>
+🔭 I’m currently studying on LikeLion<br>
 <br>
 🌱 I’m currently learning spring
 <br>
