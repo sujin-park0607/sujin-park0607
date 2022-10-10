@@ -1,6 +1,19 @@
-# Welcome to my github👋
+<img src="https://capsule-render.vercel.app/api?&type=waving&color=77A1D3&height=300&section=header&desc=Welcome%20to%20my%20GitHub&fontSize=50&fontColor=fff&text=Hello!%20I'm%20SuJin&animation=twinkling" />
 
-🔭 I’m currently studying on LikeLion<br>
+<!--조회수버튼-->
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsujin-park0607&count_bg=%2379CBCA&title_bg=%23555555&icon=adblock.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a><br>
+
+<!--노션-->
+<a href="https://good-harp-ed7.notion.site/102051b6465a4d33b57afe56d03f016e?v=b39c860a20314403986e20a634501925" target="_blank"><img src="https://img.shields.io/badge/TIL-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+
+<!--인스타-->
+<a href="https://www.instagram.com/su._.jin0607/" target="_blank"><img src="https://img.shields.io/badge/su._.jin0607-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+<!--github-->
+<a href="https://github.com/sujin-park0607/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+
+
+🔭 I’m currently studying on LikeLion
 <br>
 🌱 I’m currently learning spring
 <br>
