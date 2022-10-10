@@ -1,3 +1,6 @@
+  <!--조회수버튼-->
+  <a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsujin-park0607&count_bg=%2379CBCA&title_bg=%23555555&icon=adblock.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?&type=transparent&color=77A1D3&height=300&section=header&desc=Welcome%20to%20my%20GitHub&fontSize=50&fontColor=77A1D3&text=Hello!%20I'm%20Sujin&animation=twinkling" />
@@ -7,11 +10,7 @@
 
 <br><br>
 
-<h3>:point_down: ABOUT ME :point_down:</h3>
-
-  <!--조회수버튼-->
-  <a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsujin-park0607&count_bg=%2379CBCA&title_bg=%23555555&icon=adblock.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<h3>:point_down: CLICK THIS :point_down:</h3>
   
   <!--노션-->
   <a href="https://good-harp-ed7.notion.site/102051b6465a4d33b57afe56d03f016e?v=b39c860a20314403986e20a634501925" target="_blank">
