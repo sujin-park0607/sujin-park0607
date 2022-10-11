@@ -26,7 +26,7 @@
   
   <!--포토폴리오-->
   <a href="https://sujin-park0607.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Photofolio-EA4AAA?style=flat-square&logo=GitHubSponsors&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Portfolio-EA4AAA?style=flat-square&logo=GitHubSponsors&logoColor=white"/></a>
   
 </div>
 
