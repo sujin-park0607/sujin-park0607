@@ -12,9 +12,9 @@
 
 <h3>:point_down: CLICK THIS :point_down:</h3>
   
-  <!--노션-->
-  <a href="https://good-harp-ed7.notion.site/102051b6465a4d33b57afe56d03f016e?v=b39c860a20314403986e20a634501925" target="_blank">
-  <img src="https://img.shields.io/badge/TIL-314755?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <!--Tistory-->
+  <a href="https://alcoholble.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
   <!--인스타-->
   <a href="https://www.instagram.com/su._.jin0607/" target="_blank">
