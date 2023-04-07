@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   
   <!--포토폴리오-->
-  <a href="https://sujin-park0607.github.io/" target="_blank">
+  <a href="https://programming-with-sujin.notion.site/3f0185297c214e6bb3c3c2e75cb93028" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-EA4AAA?style=flat-square&logo=GitHubSponsors&logoColor=white"/></a>
   
 </div>
