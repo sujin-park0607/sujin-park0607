@@ -16,10 +16,6 @@
   <a href="https://alcoholble.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
-  <!--인스타-->
-  <a href="https://www.instagram.com/su._.jin0607/" target="_blank">
-  <img src="https://img.shields.io/badge/su._.jin0607-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
   <!--github-->
   <a href="https://github.com/sujin-park0607/" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
